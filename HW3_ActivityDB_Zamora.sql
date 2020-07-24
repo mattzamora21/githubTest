@@ -6,7 +6,7 @@ Name: Matthew Zamora
 ID: 1212882006
 
 */
-
+I needvthisa  
 
 CREATE TABLE ActivityLog_2019Feb (
 	logID int,
